@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yateesh Gangwar 👋</h1>
+<h1 align="center">Hi, I'm Yateesh Gangwar </h1>
 
 <p align="center">
   <b>B.Tech CSE | Full-Stack Developer |</b><br/>
