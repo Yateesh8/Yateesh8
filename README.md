@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yateesh Gangwar 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE | Full-Stack Developer</b><br/>
+  <b>B.Tech CSE | Full-Stack Developer |</b><br/>
   Turning ideas into real-world web applications.
 </p>
 
@@ -66,10 +66,12 @@
   <a href="https://github.com/Yateesh8" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add your LinkedIn, Twitter, or Portfolio links below -->
-  <!-- <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/yateesh-gangwar-8b1033296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
+  </a>
+  <a href="mailto:yateesh.gangwar_cs23@gla.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
