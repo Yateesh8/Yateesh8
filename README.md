@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Yateesh Gangwar </h1>
+<h1 align="center">Hi, I'm Yateesh Gangwar 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE | Full-Stack Developer |</b><br/>
+  <b>B.Tech CSE | Full-Stack Developer</b><br/>
   Turning ideas into real-world web applications.
 </p>
 
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yateesh8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-
+---
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,9 @@
 - 💼 Full-Stack Developer specializing in **React**, **Node.js**, **Express**, and **MongoDB**
 - 🚀 Passionate about building scalable, real-world web applications
 - 🌱 Currently exploring modern backend architectures and frontend performance optimization
+- 😄 Pronouns: **he/him**
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -52,8 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yateesh8&theme=github-dark-blue&hide_border=true" alt="Yateesh's Streak" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yateesh8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
 
-
+---
 
 ## 🤝 Connect with Me
 
@@ -69,6 +74,7 @@
   </a>
 </p>
 
+---
 
 <p align="center">
   <i>"Code is not just syntax — it's a solution waiting to happen."</i>
