@@ -52,9 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yateesh8&theme=github-dark-blue&hide_border=true" alt="Yateesh's Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yateesh8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
 
 
 
