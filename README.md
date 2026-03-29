@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yateesh8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -22,7 +22,6 @@
 - 🌱 Currently exploring modern backend architectures and frontend performance optimization
 - 😄 Pronouns: **he/him**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -58,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yateesh8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
----
+
 
 ## 🤝 Connect with Me
 
@@ -74,7 +73,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <i>"Code is not just syntax — it's a solution waiting to happen."</i>
