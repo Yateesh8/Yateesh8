@@ -20,7 +20,6 @@
 - 💼 Full-Stack Developer specializing in **React**, **Node.js**, **Express**, and **MongoDB**
 - 🚀 Passionate about building scalable, real-world web applications
 - 🌱 Currently exploring modern backend architectures and frontend performance optimization
-- 😄 Pronouns: **he/him**
 
 ---
 
