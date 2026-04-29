@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <i>"Code is not just syntax — it's a solution waiting to happen."</i>
+  <i>"Code is not just syntax — it's a solution waiting to happen.."</i>
 </p>
